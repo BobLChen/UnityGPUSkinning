@@ -10,3 +10,4 @@ Simple and fast gpu skinning in unity.
 # 功能兼容性
 - BlendTree不支持
 - Animator支持
+- 缩放不支持
